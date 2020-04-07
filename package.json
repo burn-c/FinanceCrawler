@@ -1,0 +1,14 @@
+{
+  "name": "crawler",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/burn-c/FinanceCrawler.git",
+  "author": "Carlos Oliveira <chopcsom@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3",
+    "express": "^4.17.1",
+    "request": "^2.88.2"
+  }
+}
